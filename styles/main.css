@@ -1,0 +1,17 @@
+h1 {
+    background-color: green;
+}
+
+div {
+    background-color: lightblue;
+}
+
+/* the styles for the footer */
+footer {
+    background-color: rebeccapurple;
+}
+footer p {
+    text-align: center;
+    color: white;
+    padding: 1em 0;
+}
